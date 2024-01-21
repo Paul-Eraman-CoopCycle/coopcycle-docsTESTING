@@ -11,10 +11,10 @@ redirect_from:
   <h1 class="display-4"><strong>Welcome to the CoopCycle Docs!</strong></h1>
   <p class="lead">This is the Official CoopCycle Documentation.</p>
   <hr class="my-4">
-  <p>To navigate the documentation use the <strong>Search</strong> field at the top or the <strong>Index.</strong><!-- or have a look through the <strong>Quick cards</strong> below.--></p>
+  <p>The CoopCycle documentation is set up like a pick-your-own adventure, the idea is to show you the most relevant information based on your situation. So first things first, set's get to know each other! </p>
 </div>
 
-
+# Who are you?
 
 <div class="container">
   <div class="row justify-content-around">
@@ -24,16 +24,12 @@ redirect_from:
     >
       <div class="card-body text-primary">
         <h2 class="card-title">
-          <i class="fa fa-cc-stripe" aria-hidden="true"></i> Stripe
+          <i class="fa fa-cc-stripe" aria-hidden="true"></i> Level Fixie
         </h2>
         <hr />
         <p>
           <i class="fa fa-arrow-right" aria-hidden="true"></i><a href="/en/payment_processors/stripe/#setting-up-the-cooperatives-stripe-account">
-          Connect Stripe to the Platform</a>
-        </p>
-        <p>
-          <i class="fa fa-arrow-right" aria-hidden="true"></i><a href="/en/payment_processors/stripe/#setting-up-the-cooperatives-stripe-account">
-          Connect Stripe to a Restaurant</a>
+          Me and a friend are working together and trying to make our project a real thing!</a>
         </p>
         <p class="pt-3">
           <a href="https://stripe.com/pricing" target="\_blank" rel="noopener noreferrer" class="btn btn-primary" role="button">Stripe fees</a>
@@ -47,16 +43,12 @@ redirect_from:
     >
       <div class="card-body text-primary">
         <h2 class="card-title">
-          <i class="fa fa-cutlery" aria-hidden="true"></i> Restaurant
+          <i class="fa fa-cutlery" aria-hidden="true"></i> Level Tandem
         </h2>
         <hr />
         <p>
           <i class="fa fa-arrow-right" aria-hidden="true"></i>
-          <a href="/en/admin/restaurants/creating-a-restaurant/#creating-a-restaurant-on-coopcycle">Set up the Account</a>
-        </p>
-        <p class="card-text">
-          <i class="fa fa-arrow-right" aria-hidden="true"></i>
-          <a href="/en/admin/restaurants/product-settings/#product-settings">Set up the Products</a>
+          <a href="/en/admin/restaurants/creating-a-restaurant/#creating-a-restaurant-on-coopcycle">We are 2-5 people looking to get better at working together as a group and growing our project</a>
         </p>
         <p class="pt-3">
           <a href="/en/admin/orders/promotions/" class="btn btn-primary" role="button">Promotions</a>
@@ -70,43 +62,12 @@ redirect_from:
     >
       <div class="card-body text-primary">
         <h2 class="card-title">
-          <i class="fa fa-puzzle-piece" aria-hidden="true"></i> Plugins / API
+          <i class="fa fa-puzzle-piece" aria-hidden="true"></i> Level Peloton
         </h2>
         <hr />
         <p>
           <i class="fa fa-arrow-right" aria-hidden="true"></i>
-          <a href="/en/developer/wordpress/#set-up-the-plugin-on-wordpress-woocommerce">WooCommerce / WordPress</a>
-        </p>
-        <p class="card-text">
-          <i class="fa fa-arrow-right" aria-hidden="true"></i>
-          Prestashop (Coming soon)
-        </p>
-        <p class="pt-3">
-          <a href="/en/developer/api/" class="btn btn-primary" role="button">API</a>
-          <!--<a href="#" class="btn btn-default" role="button">Button</a>-->
-        </p>
-      </div>
-    </div>
-  <div
-  style="width:45%;"
-      class="card border-primary mb-3 shadow p-3 mb-5 bg-white rounded"
-    >
-      <div class="card-body text-primary">
-        <h2 class="card-title">
-          <i class="fas fa-mobile-alt"></i> App
-        </h2>
-        <hr />
-        <p>
-          <i class="fa fa-arrow-right" aria-hidden="true"></i>
-          <a href="/en/app/courier/">Use app as a Courier</a>
-        </p>
-        <p class="card-text">
-          <i class="fa fa-arrow-right" aria-hidden="true"></i>
-          <a href="/en/app/restaurant/">Use app as a restaurant</a>
-        </p>
-        <p class="pt-3">
-          <a type="button" class="btn btn-primary" href="https://play.google.com/store/apps/details?id=fr.coopcycle" target="\_blank" rel="noopener noreferrer">Android</a>
-          <a type="button" class="btn btn-primary" href="https://apps.apple.com/us/app/coopcycle/id1324884530" target="\_blank" rel="noopener noreferrer">iOS</a>
+          <a href="/en/developer/wordpress/#set-up-the-plugin-on-wordpress-woocommerce">We are 5+ people with some experience behind us and want to use CoopCycle to implement more developed democratic management systems in our projcet
         </p>
       </div>
     </div>
